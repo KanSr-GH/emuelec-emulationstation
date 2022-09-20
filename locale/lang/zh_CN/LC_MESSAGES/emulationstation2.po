@@ -17,13 +17,13 @@ msgid "Name"
 msgstr "游戏名"
 
 msgid "this game's name"
-msgstr ""
+msgstr "游戏名"
 
 msgid "Description"
-msgstr "游戏描述"
+msgstr "游戏说明"
 
 msgid "this game's description"
-msgstr ""
+msgstr "游戏说明"
 
 msgid "Emulator"
 msgstr "模拟器"
@@ -38,28 +38,28 @@ msgid "core"
 msgstr "核心"
 
 msgid "Image"
-msgstr "游戏图"
+msgstr "游戏图像"
 
 msgid "enter path to image"
-msgstr "输入游戏图路径"
+msgstr "输入游戏图像路径"
 
 msgid "Video"
-msgstr "视频"
+msgstr "游戏视频"
 
 msgid "enter path to video"
-msgstr "输入视频路径"
+msgstr "输入游戏视频路径"
 
 msgid "Logo"
 msgstr "Logo"
 
 msgid "enter path to logo"
-msgstr "输入LOGO路径"
+msgstr "输入 LOGO 路径"
 
 msgid "Box"
-msgstr "盒子"
+msgstr "包装盒"
 
 msgid "enter path to box"
-msgstr "输入盒子路径"
+msgstr "输入包装盒路径"
 
 msgid "Fan art"
 msgstr "同人作品"
@@ -80,10 +80,10 @@ msgid "enter path to manual"
 msgstr "输入手册路径"
 
 msgid "Magazine"
-msgstr ""
+msgstr "杂志"
 
 msgid "enter path to magazine"
-msgstr ""
+msgstr "输入杂志路径"
 
 msgid "Map"
 msgstr "地图"
@@ -92,16 +92,16 @@ msgid "enter path to map"
 msgstr "输入地图路径"
 
 msgid "Bezel (16:9)"
-msgstr ""
+msgstr "边框 (16:9)"
 
 msgid "enter path to bezel (16:9)"
-msgstr ""
+msgstr "输入边框路径"
 
 msgid "Cartridge"
-msgstr "存储器"
+msgstr "卡带"
 
 msgid "enter path to cartridge"
-msgstr "输入存储器路径"
+msgstr "输入卡带路径"
 
 msgid "Alt BoxArt"
 msgstr "包装盒封面"
@@ -110,10 +110,10 @@ msgid "enter path to alt boxart"
 msgstr "输入包装盒封面路径"
 
 msgid "Box backside"
-msgstr ""
+msgstr "包装盒脊图"
 
 msgid "enter path to box background"
-msgstr ""
+msgstr "输入包装盒脊图路径"
 
 msgid "Wheel"
 msgstr "商标"
@@ -143,7 +143,7 @@ msgid "Developer"
 msgstr "开发者"
 
 msgid "this game's developer"
-msgstr ""
+msgstr "游戏开发者"
 
 msgid "Publisher"
 msgstr "发行商"
