@@ -23,7 +23,7 @@ msgid "Description"
 msgstr "游戏描述"
 
 msgid "this game's description"
-msgstr ""
+msgstr "游戏描述"
 
 msgid "Emulator"
 msgstr "模拟器"
@@ -38,70 +38,70 @@ msgid "core"
 msgstr "核心"
 
 msgid "Image"
-msgstr "游戏图"
+msgstr "游戏图像"
 
 msgid "enter path to image"
-msgstr "输入游戏图路径"
+msgstr "输入游戏图像路径"
 
 msgid "Video"
-msgstr "视频"
+msgstr "游戏视频"
 
 msgid "enter path to video"
-msgstr "输入视频路径"
+msgstr "输入游戏视频路径"
 
 msgid "Logo"
 msgstr "Logo"
 
 msgid "enter path to logo"
-msgstr "输入LOGO路径"
+msgstr "输入LOGO 路径"
 
 msgid "Box"
-msgstr "盒子"
+msgstr "包装盒"
 
 msgid "enter path to box"
-msgstr "输入盒子路径"
+msgstr "输入包装盒图像路径"
 
 msgid "Fan art"
-msgstr "同人作品"
+msgstr "同人画"
 
 msgid "enter path to fanart"
-msgstr "输入同人作品路径"
+msgstr "输入同人画路径"
 
 msgid "Title shot"
-msgstr "标题封面"
+msgstr "标题截图"
 
 msgid "enter path to title shot"
-msgstr "输入标题封面的路径"
+msgstr "输入标题截图图片的路径"
 
 msgid "Manual"
-msgstr "手册"
+msgstr "用户手册"
 
 msgid "enter path to manual"
-msgstr "输入手册路径"
+msgstr "输入用户手册文件路径"
 
 msgid "Magazine"
-msgstr ""
+msgstr "游戏杂志"
 
 msgid "enter path to magazine"
-msgstr ""
+msgstr "输入游戏杂志文件路径"
 
 msgid "Map"
-msgstr "地图"
+msgstr "游戏地图"
 
 msgid "enter path to map"
 msgstr "输入地图路径"
 
 msgid "Bezel (16:9)"
-msgstr ""
+msgstr "边框 (16:9)"
 
 msgid "enter path to bezel (16:9)"
-msgstr ""
+msgstr "输入边框 (16:9)图片路径"
 
 msgid "Cartridge"
-msgstr "存储器"
+msgstr "游戏卡带"
 
 msgid "enter path to cartridge"
-msgstr "输入存储器路径"
+msgstr "输入游戏卡带图片路径"
 
 msgid "Alt BoxArt"
 msgstr "包装盒封面"
@@ -110,10 +110,10 @@ msgid "enter path to alt boxart"
 msgstr "输入包装盒封面路径"
 
 msgid "Box backside"
-msgstr ""
+msgstr "包装盒封底"
 
 msgid "enter path to box background"
-msgstr ""
+msgstr "输入包装盒封地图片路径"
 
 msgid "Wheel"
 msgstr "商标"
@@ -122,10 +122,10 @@ msgid "enter path to wheel"
 msgstr "输入商标路径"
 
 msgid "Mix"
-msgstr "混合图"
+msgstr "混合图片"
 
 msgid "enter path to mix"
-msgstr "输入混合图路径"
+msgstr "输入混合图片路径"
 
 msgid "Rating"
 msgstr "评分"
@@ -140,16 +140,16 @@ msgid "enter release date"
 msgstr "输入发行日期"
 
 msgid "Developer"
-msgstr "开发者"
+msgstr "开发商"
 
 msgid "this game's developer"
-msgstr ""
+msgstr "游戏开发商"
 
 msgid "Publisher"
 msgstr "发行商"
 
 msgid "this game's publisher"
-msgstr ""
+msgstr "游戏发行商"
 
 msgid "Genre"
 msgstr "游戏类型"
@@ -158,28 +158,28 @@ msgid "enter game genre"
 msgstr "输入游戏类型"
 
 msgid "Game family"
-msgstr ""
+msgstr "系列游戏"
 
 msgid "this game's game family"
-msgstr ""
+msgstr "此游戏所属的系列游戏"
 
 msgid "Genres"
-msgstr ""
+msgstr "类型"
 
 msgid "enter game genres"
-msgstr ""
+msgstr "输入游戏类型"
 
 msgid "Arcade system"
-msgstr "游戏系统"
+msgstr "主机平台"
 
 msgid "this game's arcade system"
-msgstr ""
+msgstr "游戏所属主机平台"
 
 msgid "Players"
 msgstr "游玩人数"
 
 msgid "this game's number of players"
-msgstr ""
+msgstr "此游戏最大玩家人数"
 
 msgid "Favorite"
 msgstr "收藏"
@@ -206,10 +206,10 @@ msgid "enter number of times played"
 msgstr "输入游玩次数"
 
 msgid "Last played"
-msgstr "最后游玩时间"
+msgstr "上次游玩时间"
 
 msgid "enter last played date"
-msgstr "输入最后游玩时间"
+msgstr "输入上次游玩时间"
 
 msgid "Crc32"
 msgstr "CRC32"
@@ -224,7 +224,7 @@ msgid "Md5 checksum"
 msgstr "Md5校验"
 
 msgid "Game time"
-msgstr "游戏时间"
+msgstr "累计游戏时长"
 
 msgid "how long the game has been played in total (seconds)"
 msgstr "游戏总共玩了多长时间（秒）"
@@ -233,13 +233,13 @@ msgid "Languages"
 msgstr "语言"
 
 msgid "this game's languages"
-msgstr ""
+msgstr "此游戏界面语种"
 
 msgid "Region"
-msgstr "区域"
+msgstr "发行地区"
 
 msgid "this game's region"
-msgstr ""
+msgstr "此游戏的发行地区"
 
 msgid "Cheevos Hash"
 msgstr ""
@@ -254,7 +254,7 @@ msgid "all games"
 msgstr "全部游戏"
 
 msgid "last played"
-msgstr "最后游玩"
+msgstr "上次游玩"
 
 msgid "favorites"
 msgstr "收藏夹"
@@ -266,19 +266,19 @@ msgid "4 players"
 msgstr "四人游戏"
 
 msgid "never played"
-msgstr "从未玩过的"
+msgstr "从未玩过"
 
 msgid "retroachievements"
-msgstr ""
+msgstr "战绩"
 
 msgid "arcade"
 msgstr "街机"
 
 msgid "vertical arcade"
-msgstr ""
+msgstr "垂直卷轴游戏"
 
 msgid "lightgun games"
-msgstr ""
+msgstr "光枪游戏"
 
 msgid "collections"
 msgstr "合辑"
@@ -307,7 +307,7 @@ msgid "None"
 msgstr "无"
 
 msgid "Various"
-msgstr "多开发商"
+msgstr "合作开发"
 
 #, c-format
 msgid "This collection contains %i game:%s"
@@ -318,22 +318,22 @@ msgid "SCANNING BLUETOOTH"
 msgstr "正在扫描蓝牙设备"
 
 msgid "Searching for devices..."
-msgstr "正在搜索控制器..."
+msgstr "正在搜索手柄..."
 
 msgid "BLUETOOTH SCAN IS ALREADY RUNNING."
 msgstr "蓝牙扫描已在运行。"
 
 msgid "FORMATTING DEVICE"
-msgstr ""
+msgstr "格式化"
 
 msgid "Formatting"
-msgstr ""
+msgstr "正在格式化"
 
 msgid "A REBOOT IS REQUIRED TO COMPLETE THE OPERATION"
 msgstr "需要重新启动系统才能完成操作"
 
 msgid "A DRIVE IS ALREADY BEING FORMATTED."
-msgstr ""
+msgstr "磁盘格式化完成"
 
 msgid "DOWNLOADING"
 msgstr "下载中"
@@ -348,25 +348,25 @@ msgid "THEME UNINSTALLED SUCCESSFULLY"
 msgstr "主题卸载成功"
 
 msgid "BEZELS INSTALLED SUCCESSFULLY"
-msgstr "框架安装成功"
+msgstr "边框安装成功"
 
 msgid "BEZELS UNINSTALLED SUCCESSFULLY"
-msgstr "BEZELS卸载成功"
+msgstr "边框卸载成功"
 
 msgid "PACKAGE INSTALLED SUCCESSFULLY"
-msgstr "包安装成功"
+msgstr "程序包安装成功"
 
 msgid "PACKAGE REMOVED SUCCESSFULLY"
-msgstr "包卸载成功"
+msgstr "程序包卸载成功"
 
 msgid "RETROACHIEVEMENT SETTINGS"
-msgstr ""
+msgstr "战绩"
 
 msgid "SETTINGS"
 msgstr "设置"
 
 msgid "RETROACHIEVEMENTS"
-msgstr "RetroArch成就"
+msgstr "RetroArch 战绩"
 
 msgid "HARDCORE MODE"
 msgstr "专家模式"
@@ -390,7 +390,7 @@ msgid "RICH PRESENCE"
 msgstr ""
 
 msgid "ENCORE MODE"
-msgstr ""
+msgstr "转场模式"
 
 msgid "Unlocked achievements can be earned again."
 msgstr ""
@@ -399,7 +399,7 @@ msgid "AUTOMATIC SCREENSHOT"
 msgstr "自动截图"
 
 msgid "Automatically take a screenshot when an achievement is earned."
-msgstr ""
+msgstr "达成战绩时自动截图"
 
 msgid "CHALLENGE INDICATORS"
 msgstr ""
@@ -434,7 +434,7 @@ msgid "GAME INDEXES"
 msgstr "游戏索引"
 
 msgid "INDEX NEW GAMES AT STARTUP"
-msgstr ""
+msgstr "开机搜索新增游戏"
 
 msgid "INDEX GAMES"
 msgstr ""
@@ -461,7 +461,7 @@ msgid "FIND GAMES"
 msgstr "搜索游戏"
 
 msgid "Unknown"
-msgstr "未知的"
+msgstr "未知"
 
 msgid "YES"
 msgstr "是"
@@ -470,7 +470,7 @@ msgid "NO"
 msgstr "否"
 
 msgid "SYSTEMS"
-msgstr "游戏平台"
+msgstr "游戏主机"
 
 msgid "GAME COLLECTION SETTINGS"
 msgstr "游戏合辑设置"
@@ -479,7 +479,7 @@ msgid "COLLECTIONS TO DISPLAY"
 msgstr "要显示的合辑"
 
 msgid "SYSTEMS DISPLAYED"
-msgstr "显示的游戏平台"
+msgstr "显示的游戏主机"
 
 msgid "GROUPED SYSTEMS"
 msgstr "系统分组"
@@ -506,10 +506,10 @@ msgid "OPTIONS"
 msgstr "选项"
 
 msgid "SORT COLLECTIONS AND SYSTEMS"
-msgstr "合辑和系统分类"
+msgstr "合辑和主机分类"
 
 msgid "ALPHABETICALLY"
-msgstr "按字母排序"
+msgstr "按首字母"
 
 msgid "BY MANUFACTURER"
 msgstr "按制造商"
@@ -518,13 +518,13 @@ msgid "BY HARDWARE TYPE"
 msgstr "按硬件类型"
 
 msgid "BY RELEASE YEAR"
-msgstr "按发布年"
+msgstr "按发布时间"
 
 msgid "SORT SYSTEMS"
-msgstr "系统分类"
+msgstr "主机分类"
 
 msgid "START ON SYSTEM"
-msgstr "启动到系统"
+msgstr "启动到指定主机"
 
 msgid "NONE"
 msgstr "无"
