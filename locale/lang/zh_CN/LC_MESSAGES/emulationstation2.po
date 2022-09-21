@@ -17,7 +17,7 @@ msgid "Name"
 msgstr "游戏名"
 
 msgid "this game's name"
-msgstr ""
+msgstr "游戏名"
 
 msgid "Description"
 msgstr "游戏描述"
